@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:aio-pcb-guide-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -632,4 +633,12 @@ Wire Notes Line
 	5150 3950 7200 3950
 Wire Notes Line
 	5150 450  5150 3950
+Text GLabel 10350 1550 2    50   Input ~ 0
+Row0
+Text GLabel 10350 1650 2    50   Input ~ 0
+Row1
+Text GLabel 10350 1750 2    50   Input ~ 0
+Col0
+Text GLabel 10350 1850 2    50   Input ~ 0
+Col1
 $EndSCHEMATC
